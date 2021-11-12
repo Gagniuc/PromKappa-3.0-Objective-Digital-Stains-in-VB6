@@ -1,0 +1,4 @@
+Line 387: Class MSComDlg.CommonDialog of control dlgBrowse was not a loaded control class.
+Line 390: The property name _ExtentX in dlgBrowse is invalid.
+Line 391: The property name _ExtentY in dlgBrowse is invalid.
+Line 392: The property name _Version in dlgBrowse is invalid.
