@@ -7,9 +7,9 @@ Objective Digital Stains in VB6
 
 ![screenshot](https://github.com/Gagniuc/PromKappa-3.0-Objective-Digital-Stains-in-VB6/blob/main/screenshot/PromKappa%202.0%20Objective%20Digital%20Stain%20(3).PNG)
 
-![screenshot](https://github.com/Gagniuc/PromKappa-3.0-Objective-Digital-Stains-in-VB6/blob/main/screenshot/PromKappa%202.0%20Objective%20Digital%20Stain%20(4).gif)
+<kbd><img src="https://github.com/Gagniuc/PromKappa-3.0-Objective-Digital-Stains-in-VB6/blob/main/screenshot/PromKappa%202.0%20Objective%20Digital%20Stain%20(4).gif" /></kbd>
 
-![screenshot](https://github.com/Gagniuc/PromKappa-3.0-Objective-Digital-Stains-in-VB6/blob/main/screenshot/PromKappa%202.0%20Objective%20Digital%20Stain%20(5).gif)
+<kbd><img src="https://github.com/Gagniuc/PromKappa-3.0-Objective-Digital-Stains-in-VB6/blob/main/screenshot/PromKappa%202.0%20Objective%20Digital%20Stain%20(5).gif" /></kbd>
 
 ![screenshot](https://github.com/Gagniuc/PromKappa-3.0-Objective-Digital-Stains-in-VB6/blob/main/screenshot/PromKappa%202.0%20Objective%20Digital%20Stain%20(6).PNG)
 
